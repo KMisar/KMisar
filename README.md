@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khushi Misar
 
-🎓 Electronics Graduate | 💻 Aspiring Data Analyst | 📊 Passionate About Data & Insights
+ 💻 Aspiring Data Analyst | 📊 Passionate About Data & Insights
 
 Welcome to my GitHub profile! I enjoy turning raw data into clear, actionable insights using tools like **SQL**, **Power BI**, **Excel**, and **Python**. I'm currently building projects that explore real-world data in areas like HR, E-commerce, and Student Careers.
 
